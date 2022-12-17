@@ -16,12 +16,12 @@ const Footer = () => {
                         </li>
 
                         <li className="social__item">
-                            <a href="#!">
+                            <a href="https://github.com/zaytsevandrii" target='_blank'>
                                 <img src={gitHub} alt="Link" />
                             </a>
                         </li>
                         <li className="social__item">
-                            <a href="#!">
+                            <a href="https://www.linkedin.com/in/andrii-zaytsev-3ba472239/" target='_blank'>
                                 <img src={linkedIn} alt="Link" />
                             </a>
                         </li>

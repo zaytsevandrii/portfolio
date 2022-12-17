@@ -1,13 +1,14 @@
 import React from "react"
+import { NavLink } from "react-router-dom"
 
-const Project = ({img,title}) => {
+const Project = ({ img, title,id }) => {
     return (
-        <li className="project">
-            <a href="./project-page.html">
-                <img src={img} alt={title} className="project__img" />
-                <h3 className="project__title">{title}</h3>
-            </a>
-        </li>
+        <NavLink to={`/projects/${id}`}>
+            <li className="project">
+                    <img src={img} alt={title} className="project__img" />
+                    <h3 className="project__title">{title}</h3>
+            </li>
+        </NavLink>
     )
 }
 
