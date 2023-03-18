@@ -12,7 +12,7 @@ const Header = () => {
                 </h1>
                 <div className="header__text">
                     <p>with a passion for learning and creating.</p>
-                    <p style={{fontSize:'20px',paddingTop:'10px'}}>Skills: HTML5, CSS3, Javascript, Typescript, React, Redux, SaSS, Next js</p>
+                    <p style={{fontSize:'20px',paddingTop:'10px'}}>Skills: HTML5, CSS3, Javascript, Typescript, React, Bootstrap, Next js, Node, Express,Redux, SaSS, Docker, Ruby </p>
                 </div>
                 <a href="https://drive.google.com/file/d/1sa7hZVw4dT6RXR88Vai6TQv3GiosOSTV/view?usp=sharing" target='_blank'  className="btn">
                     Download CV
