@@ -16,7 +16,7 @@ export const projects =[
       {     
             id:0,
             title:'925Kazakhstan',
-            skills:'Next js, Node js, MongoDb, Mongoose, Next Auth, AWS Amplify',
+            skills:'Next js, Node js, MongoDb, Mongoose, Next Auth, Sass, AWS Amplify',
             img:project06,
             imgBig:project06Big,
             gitHubLink: 'https://www.925kazakhstan.com/'
@@ -24,7 +24,7 @@ export const projects =[
       {     
             id:1,
             title:'Dimax Media',
-            skills:'Next js, Nodemail, Bootstrap, Node js',
+            skills:'Next js, Sass, Nodemail, Bootstrap, Node js',
             img:project05,
             imgBig:project05Big,
             gitHubLink: 'https://www.dimax.media/'
